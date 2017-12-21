@@ -4,7 +4,6 @@ body {
     margin: 0;
     padding: 0;
     background: #FFFFFF;
-    color: #fff;
     text-align: center;
 }
 header {
@@ -81,7 +80,7 @@ section {
     left: 0;
     border-radius: 3px 0 0 3px;
 }
-}
+
 /* Caption text */
 
 .text {
