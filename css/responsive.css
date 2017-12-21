@@ -4,27 +4,45 @@ body {
     margin: 0;
     padding: 0;
     background: #FFFFFF;
+    color: #fff;
     text-align: center;
 }
 header {
     background: #ccc;
     color: #444;
+    
 }
 nav {
     background: #aaa;
     display: none;
+    position:fixed;
+    z-index:1000;
+    top: 0;
+    
+    
+    
+   
 }
 nav a {
     padding: 1em;
     display: block;
+     top: 0;
+    width: 100%;
+    z-index:1000;
+    
+  width: 100%;
 }
 #menu {
     padding: 1em;
     background: #fff;
     display: block;
+    position:fixed;
+    width:100%;
+    z-index:1000;
 }
 .show-menu {
     display: block;
+    width:100%
 }
 a {
     color: #000;
@@ -41,6 +59,45 @@ main {
 }
 section {
     background: #888;
+}
+/* FIRST BREAKPOINT (MEDIUM SIZE) */
+
+@media screen and (min-width: 500px) {
+    header {
+        background: #444;
+        color: #ccc;
+    }
+    nav a {
+        width: 44%;
+        display: inline-block;
+    }
+    nav a:hover {
+        background: #777;
+    }
+    h1 {
+        font-size: 2em;
+    }
+    main {
+        width: 90%;
+        margin: 0 auto;
+    }
+    section {
+        width: 44%;
+        margin: 2%;
+        display: inline-block;
+        background: #444;
+        color: #999;
+    }
+    section:hover {
+        background: #666;
+    }
+}
+* {
+    box-sizing: border-box
+}
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0
 }
 .mySlides {
     display: none
@@ -80,7 +137,7 @@ section {
     left: 0;
     border-radius: 3px 0 0 3px;
 }
-
+}
 /* Caption text */
 
 .text {
@@ -152,35 +209,41 @@ section {
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
-@media screen and (min-width: 500px) {
-    header {
-        background: #444;
-        color: #ccc;
+@media only screen and (min-width: 500px) {
+    .prev,
+    .next,
+    .text {
+        font-size: 11px
+    }
+    nav {
+        display: block;
     }
     nav a {
-        width: 44%;
-        display: inline-block;
+        line-height: 3em;
+        width: inherit;
+        width:13.75em;
     }
-    nav a:hover {
-        background: #777;
+    #menu {
+        display: none;
     }
-    h1 {
-        font-size: 2em;
+}
+}
+/* END FIRST BREAKPOINT */
+/* SECOND BREAKPOINT (DESKTOP SIZE) */
+
+@media only screen and (min-width: 1000px) {
+    .prev,
+    .next,
+    .text {
+        font-size: 11px
     }
-    main {
-        width: 90%;
-        margin: 0 auto;
-    }
-    section {
-        width: 44%;
-        margin: 2%;
-        display: inline-block;
-        background: #444;
-        color: #999;
-    }
-    section:hover {
-        background: #666;
-    }
+}
+box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 /* END FIRST BREAKPOINT */
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
@@ -194,8 +257,9 @@ section {
         display: block;
     }
     nav a {
-        line-height: 3em;
+        line-height: 1em;
         width: inherit;
+        width:13.75em;
     }
     #menu {
         display: none;
