@@ -1,26 +1,20 @@
-var slideIndex = 1;
-showSlides(slideIndex);
+(function(){
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+  let menuButton = document.getElementById("menu");
+  let navMenu = document.getElementById("nav-menu");
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
+  menuButton.addEventListener("click", toggleMenu);
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+  let toggle = false; // hidden at first
+  function toggleMenu(){
+    if (toggle) { // true: it's visible
+      navMenu.classList.remove("show-menu"), // hide it
+      toggle = false
+    }
+    else { // false: it's hidden
+      navMenu.classList.add("show-menu"), // show it
+      toggle = true
+    }
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}
+
+})();
