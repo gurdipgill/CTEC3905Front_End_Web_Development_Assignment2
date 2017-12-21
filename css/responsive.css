@@ -1,0 +1,33 @@
+/* GLOBAL AND MOBILE STYLES FIRST */
+
+/*
+  - this applies to any screen sizes under 500px
+  - if you leave the width off, sections will automatically fill the full page width
+  - no margins and little or no padding
+*/
+
+
+/* FIRST BREAKPOINT (MEDIUM SIZE) */
+@media screen and (min-width: 500px) {
+  /* 
+    - applies to screens larger than 499px (unless specifically overwritten these styles will also apply to screens larger than 999px)
+    - add any hover states here
+    - increase font sizes
+    - add margins and padding to space things out
+    - decrease width of sections
+    - add `display: inline-block;` so that sections will float next to each other
+  */
+}
+/* END FIRST BREAKPOINT */
+
+
+/* SECOND BREAKPOINT (DESKTOP SIZE) */
+@media screen and (min-width: 1000px) {
+  /*
+    - applies to screens larger than 999px only
+    - add a max-width to your main section
+    - further decrease size of sections
+    - increase size of headings and global fonts
+  */
+}
+/* END SECOND BREAKPOINT */
