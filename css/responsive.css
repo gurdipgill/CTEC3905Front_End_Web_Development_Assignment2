@@ -85,12 +85,12 @@ section {
 
 .text {
     color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
+    font-size: 20px;
+    padding: 10px 12px;
     position: absolute;
-    bottom: 8px;
+    bottom: 11px;
     width: 100%;
-    text-align: center;
+    text-align: bottom;
 }
 /* Number text (1/3 etc) */
 
@@ -144,15 +144,13 @@ section {
 /* On smaller screens, decrease text size */
 
 @media only screen and (min-width: 300px) {
-    .prev,
-    .next,
-    .text {
-        font-size: 11px
+    .prev,.next,.text {font-size: 11px
     }
+    
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 600px) {
     header {
         background: #444;
         color: #ccc;
@@ -192,6 +190,7 @@ section {
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 
 @media screen and (min-width: 1000px) {
+    
     header {
         background: #222;
         color: #ccc;
@@ -221,4 +220,27 @@ section {
         font-size: 1.5em;
     }
 }
-/* END SECOND BREAKPOINT */
+
+    #edhistorytbl {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    }
+
+    #edhistorytbl td, #edhistorytbl th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    }
+
+     #edhistorytbl tr:nth-child(even){background-color: #f2f2f2;}
+
+    #edhistorytbl tr:hover {background-color: #ddd;}
+
+    #edhistorytbl th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    }
+ 
