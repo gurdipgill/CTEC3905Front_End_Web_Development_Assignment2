@@ -201,11 +201,23 @@ body {
 /* On smaller screens, decrease text size */
 
 @media only screen and (min-width: 300px) {
-    .prev,
+ .prev,
     .next,
     .text {
         font-size: 11px
     }
+    nav {
+        display: block;
+    }
+    nav a {
+        line-height: 3em;
+        width: inherit;
+        width:23em;
+    }
+    #menu {
+        display: none;
+    }
+}
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
