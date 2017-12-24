@@ -73,7 +73,7 @@ section {
 }
 * {
     box-sizing: border-box
-    width:100%
+    width:100%;
 }
 body {
     font-family: Verdana, sans-serif;
@@ -203,6 +203,9 @@ body {
     }
     section:hover {
         background: #666;
+    }
+    edhistorytbl {
+      width: 100%;
     }
 }
 /* END FIRST BREAKPOINT */
