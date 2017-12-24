@@ -48,29 +48,7 @@ main {
 section {
     background: #888;
 }
-#edhistorytbl {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-#edhistorytbl td,
-#edhistorytbl th {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-#edhistorytbl tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-#edhistorytbl tr:hover {
-    background-color: #ddd;
-}
-#edhistorytbl th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #333;
-    color: white;
-}
+
 * {
     box-sizing: border-box
     width:100%;
@@ -271,3 +249,28 @@ body {
     }
 }
 /* END SECOND BREAKPOINT */
+
+#edhistorytbl {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#edhistorytbl td,
+#edhistorytbl th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    width:100%;
+}
+#edhistorytbl tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+#edhistorytbl tr:hover {
+    background-color: #ddd;
+}
+#edhistorytbl th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #333;
+    color: white;
+}
