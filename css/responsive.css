@@ -49,10 +49,7 @@ section {
     background: #888;
 }
 
-* {
-    box-sizing: border-box
-    width:100%;
-}
+
 body {
     font-family: Verdana, sans-serif;
     margin: 0
