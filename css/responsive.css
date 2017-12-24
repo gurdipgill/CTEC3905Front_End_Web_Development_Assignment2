@@ -150,7 +150,7 @@ body {
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
-@media screen and (min-width: 300px) {
+@media screen and (min-width: 600px) {
     header {
         background: #444;
         color: #ccc;
@@ -186,7 +186,7 @@ body {
 /* END FIRST BREAKPOINT */
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
     header {
         background: #222;
         color: #ccc;
