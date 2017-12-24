@@ -240,8 +240,8 @@ body {font-family: Verdana,sans-serif;margin:0}
     z-index:1000;
   }
   nav a {
-    line-height: 3em;
-    width: 27.82em;
+    line-height: 1em;
+    width: 24em;
   }
   #menu {
     display: none;
