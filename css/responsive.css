@@ -18,6 +18,13 @@ nav a {
     padding: 1em 4.82em;
     display: block;
 }
+
+h2 {
+  font-size:12px
+}
+li {
+font-size:9px
+}
 #menu {
     padding: 1em;
     background: #fff;
