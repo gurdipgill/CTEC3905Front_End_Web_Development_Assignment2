@@ -1,8 +1,8 @@
 /* GLOBAL AND MOBILE STYLES FIRST */
 
 body {
-    margin: 0;
-    padding: 0;
+    margin: 100;
+    padding: 100;
     background: #222;
     color: #222;
     text-align: center;
@@ -150,7 +150,7 @@ body {
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 400px) {
     header {
         background: #444;
         color: #ccc;
@@ -179,25 +179,27 @@ body {
     section:hover {
         background: #666;
     }
-    edhistorytbl {
-      width: 100%;
-    }
-}
+
+
+
+
+
+
 /* END FIRST BREAKPOINT */
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
     header {
         background: #222;
         color: #ccc;
     }
     nav {
-        display: block;
+        display: flex;
         position: fixed;
         z-index: 1000;
     }
     nav a {
-        line-height: 3em;
+        line-height: 1em;
         width: inherit;
     }
     #menu {
@@ -217,7 +219,7 @@ body {
 /* END SECOND BREAKPOINT */
 /* 3rd BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1200px) {
     header {
         background: #222;
         color: #ccc;
@@ -229,7 +231,7 @@ body {
     }
     nav a {
         line-height: 1em;
-        width: 24em;
+        width: 10.8em;
     }
     #menu {
         display: none;
@@ -247,6 +249,21 @@ body {
 }
 /* END SECOND BREAKPOINT */
 
+
+ .flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #333;
+}
+
+.flex-container>div {
+  background-color: #f1f1f1;
+  width: 270px;
+  margin: 10px;
+  text-align: center;
+  line-height: 15px;
+  font-size: 15px;
+}
     #edhistorytbl {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -272,4 +289,3 @@ body {
     background-color: #333;
     color: white;
     }
- 
