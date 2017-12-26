@@ -20,7 +20,7 @@ nav a {
 }
 
 h2 {
-  font-size:12px
+  font-size:9px
 }
 li {
 font-size:9px
@@ -170,6 +170,9 @@ body {
     }
     section:hover {
         background: #666;
+    }
+    h2{
+      width: 100%
     }
 }
 /* END FIRST BREAKPOINT */
