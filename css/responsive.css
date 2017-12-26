@@ -206,7 +206,7 @@ body {
 /* END SECOND BREAKPOINT */
 /* 3rd BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1200px) {
     header {
         background: #222;
         color: #ccc;
