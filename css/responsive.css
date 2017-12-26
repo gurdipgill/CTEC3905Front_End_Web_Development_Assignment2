@@ -257,7 +257,7 @@ body {
 #edhistorytbl td,
 #edhistorytbl th {
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 3px;
 }
 #edhistorytbl tr:nth-child(even) {
     background-color: #f2f2f2;
@@ -280,7 +280,7 @@ body {
 #jobhistorytbl td,
 #jobhistorytbl th {
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 3px;
 }
 #jobhistorytbl tr:nth-child(even) {
     background-color: #f2f2f2;
