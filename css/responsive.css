@@ -84,16 +84,6 @@ body {
     border-radius: 3px 0 0 3px;
 }
 /* Caption text */
-
-.text {
-    color: #333;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: indicators;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
-}
 /* Number text (1/3 etc) */
 
 .numbertext {
