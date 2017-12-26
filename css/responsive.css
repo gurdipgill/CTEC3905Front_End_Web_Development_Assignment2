@@ -1,10 +1,9 @@
 /* GLOBAL AND MOBILE STYLES FIRST */
 
 body {
-    margin: 100;
-    padding: 100;
+    margin: 0;
+    padding: 0;
     background: #222;
-    color: #222;
     text-align: center;
 }
 header {
@@ -24,7 +23,6 @@ nav a {
     background: #fff;
     display: block;
     position: fixed;
-    overflow: show;
     z-index: 100;
 }
 .show-menu {
@@ -48,8 +46,6 @@ main {
 section {
     background: #888;
 }
-
-
 body {
     font-family: Verdana, sans-serif;
     margin: 0
@@ -87,14 +83,13 @@ body {
     right: 0;
     border-radius: 3px 0 0 3px;
 }
-}
 /* Caption text */
 
 .text {
-    color: #f2f2f2;
+    color: #333;
     font-size: 15px;
     padding: 8px 12px;
-    position: absolute;
+    position: indicators;
     bottom: 8px;
     width: 100%;
     text-align: center;
@@ -179,12 +174,7 @@ body {
     section:hover {
         background: #666;
     }
-
-
-
-
-
-
+}
 /* END FIRST BREAKPOINT */
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 
@@ -198,13 +188,9 @@ body {
         position: fixed;
         z-index: 1000;
     }
-  nav a {
+    nav a {
         line-height: 1em;
-
-        width:100%
-    }
-    #menu {
-        display: none;
+        width: 100%
     }
     main {
         max-width: 1000px;
@@ -250,43 +236,42 @@ body {
 }
 /* END SECOND BREAKPOINT */
 
-
- .flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  background-color: #333;
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #333;
 }
-
 .flex-container>div {
-  background-color: #f1f1f1;
-  width: 270px;
-  margin: 10px;
-  text-align: center;
-  line-height: 15px;
-  font-size: 15px;
+    background-color: #f1f1f1;
+    width: 270px;
+    margin: 10px;
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
 }
-    #edhistorytbl {
+#edhistorytbl {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     max-width: 1000px;
     position: relative;
     margin: auto;
     width: 100%
-    }
-
-    #edhistorytbl td, #edhistorytbl th {
+}
+#edhistorytbl td,
+#edhistorytbl th {
     border: 1px solid #ddd;
     padding: 8px;
-    }
-
-     #edhistorytbl tr:nth-child(even){background-color: #f2f2f2;}
-
-    #edhistorytbl tr:hover {background-color: #ddd;}
-
-    #edhistorytbl th {
+}
+#edhistorytbl tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+#edhistorytbl tr:hover {
+    background-color: #ddd;
+}
+#edhistorytbl th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
     background-color: #333;
     color: white;
-    }
+}
