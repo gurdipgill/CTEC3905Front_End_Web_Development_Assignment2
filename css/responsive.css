@@ -16,7 +16,7 @@ nav {
     display: none;
 }
 nav a {
-    padding: 1em 5em;
+    padding: 1em 4.82em;
     display: block;
 }
 #menu {
@@ -150,13 +150,13 @@ body {
 }
 /* FIRST BREAKPOINT (MEDIUM SIZE) */
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 320px) {
     header {
         background: #444;
         color: #ccc;
     }
     nav a {
-        width: 44%;
+        width: 100%;
         display: inline-block;
     }
     nav a:hover {
@@ -188,7 +188,7 @@ body {
 /* END FIRST BREAKPOINT */
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
     header {
         background: #222;
         color: #ccc;
@@ -198,9 +198,10 @@ body {
         position: fixed;
         z-index: 1000;
     }
-    nav a {
+  nav a {
         line-height: 1em;
-        width: inherit;
+
+        width:100%
     }
     #menu {
         display: none;
@@ -219,19 +220,19 @@ body {
 /* END SECOND BREAKPOINT */
 /* 3rd BREAKPOINT (DESKTOP SIZE) */
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1000px) {
     header {
         background: #222;
         color: #ccc;
     }
     nav {
-        display: block;
+        display: flex;
         position: fixed;
         z-index: 1000;
     }
     nav a {
         line-height: 1em;
-        width: 10.8em;
+        width: 11.5em;
     }
     #menu {
         display: none;
