@@ -16,9 +16,8 @@ Accessibility Checker	Errors solved (Achecker.ca, 2017)
 	
 
 **PARC**
-https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html
-The PARC system, Contains four main ideas.
- Proximity, which states like objects should be grouped together and separated from non like objects. 
+-The PARC system, Contains four main ideas.
+Proximity, which states like objects should be grouped together and separated from non like objects. 
 Alignment, which states that visual elements on a page should have a connection with one another and be placed with purpose. 
 Repetition, which tells us that elements like colour, text and graphic patterns should be repeated throughout our design and other designs with similar purposes.
 contrast, which tells us that we should create definitive differences between objects on the page that aren't similar to each other. Like headings and body copy or logos and personal information, for instance.
