@@ -37,7 +37,7 @@ Following the advice given from the google PageSpeed Insights some following cha
 These changes will help the page load up faster. (Developers.google.com, 2017)
 
 
-#References 
+**References**
 Navbar/Main/ Section/Tables
 Everitt, D. and Raczinski, F. (2017). CTEC3905/04-lab. [online] GitHub. Available at: https://github.com/CTEC3905/04-lab/tree/nav [Accessed 28 Dec. 2017].
 Slideshow
