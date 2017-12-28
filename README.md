@@ -39,12 +39,12 @@ These changes will help the page load up faster. (Developers.google.com, 2017)
 
 
 **References**
-Navbar/Main/ Section/Tables
+1. Navbar/Main/ Section/Tables
 Everitt, D. and Raczinski, F. (2017). CTEC3905/04-lab. [online] GitHub. Available at: https://github.com/CTEC3905/04-lab/tree/nav [Accessed 28 Dec. 2017].
 Slideshow
-W3schools.com. (2017). How To Create a Slideshow. [online] Available at: https://www.w3schools.com/howto/howto_js_slideshow.asp [Accessed 28 Dec. 2017].
+2. W3schools.com. (2017). How To Create a Slideshow. [online] Available at: https://www.w3schools.com/howto/howto_js_slideshow.asp [Accessed 28 Dec. 2017].
 Flexbox
-W3schools.com. (2017). CSS Flexible Box. [online] Available at: https://www.w3schools.com/css/css3_flexbox.asp [Accessed 28 Dec. 2017].
+3. W3schools.com. (2017). CSS Flexible Box. [online] Available at: https://www.w3schools.com/css/css3_flexbox.asp [Accessed 28 Dec. 2017].
 Google API
 Google Developers. (2017). Get API Key  |  Google Maps JavaScript API  |  Google Developers. [online] Available at: https://developers.google.com/maps/documentation/javascript/get-api-key [Accessed 28 Dec. 2017].
 Code analysis tools
