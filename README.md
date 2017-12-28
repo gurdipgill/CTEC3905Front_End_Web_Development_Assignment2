@@ -62,6 +62,7 @@ Google Insights
 Developers.google.com. (2017). PageSpeed Insights. [online] Available at: https://developers.google.com/speed/pagespeed/insights/ [Accessed 28 Dec. 2017].
 Sitemap 
 Xml-sitemaps.com. (2017). Create your Google Sitemap Online - XML Sitemaps Generator. [online] Available at: https://www.xml-sitemaps.com/ [Accessed 28 Dec. 2017].
+[1]Lynda.com - from LinkedIn. (2017). Understanding the PARC system. [online] Available at: https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html [Accessed 28 Dec. 2017].
 
 
 
