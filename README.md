@@ -1,32 +1,31 @@
 # READ ME
 **Prototype screen design**
--https://projects.invisionapp.com/freehand/document/5QNe05I4g
+- https://projects.invisionapp.com/freehand/document/5QNe05I4g
 
 **Navigation plan**
 I created a site map using xml-sitemaps following the instructions, furthermore I went on to add my website to the google search console, this is the start of moving myself up the ranks regarding google search. It advises the changes that I need to make to make my website compliant and improve the efficacy and most importantly to optimise the search of the website. (Xml-sitemaps.com, 2017)
 
 **Code analysis/cleaning tools**
-Code analysis/cleaning tools	Checked
-HTML Validator	no errors or warnings (Validator.w3.org, 2017)
-HTML beautifier	Beautified with 2 space indents (Freeformatter.com, 2017)
-CSS Validator	no errors or warnings (Anon, 2017)
-CSS minify	Minified by google (Minify Resources HTML, 2017)
-Accessibility Checker	Errors solved (Achecker.ca, 2017)
+1. Code analysis/cleaning tools	Checked
+2. HTML Validator	no errors or warnings (Validator.w3.org, 2017)
+3. HTML beautifier	Beautified with 2 space indents (Freeformatter.com, 2017)
+4. CSS Validator	no errors or warnings (Anon, 2017)
+5. CSS minify	Minified by google (Minify Resources HTML, 2017)
+6. Accessibility Checker	Errors solved (Achecker.ca, 2017)
 	
 
 **PARC**
--The PARC system, Contains four main ideas.
-Proximity, which states like objects should be grouped together and separated from non like objects. 
-Alignment, which states that visual elements on a page should have a connection with one another and be placed with purpose. 
-Repetition, which tells us that elements like colour, text and graphic patterns should be repeated throughout our design and other designs with similar purposes.
-contrast, which tells us that we should create definitive differences between objects on the page that aren't similar to each other. Like headings and body copy or logos and personal information, for instance.
+The PARC system,
+Contains four main ideas.(Lynda.com - from LinkedIn, 2017)
+1. Proximity, which states like objects should be grouped together and separated from non like objects.(Lynda.com - from LinkedIn, 2017) 
+2. Alignment, which states that visual elements on a page should have a connection with one another and be placed with purpose. (Lynda.com - from LinkedIn, 2017)
+3. Repetition, which tells us that elements like colour, text and graphic patterns should be repeated throughout our design and other designs with similar purposes.(Lynda.com - from LinkedIn, 2017)
+4. Contrast, which tells us that we should create definitive differences between objects on the page that aren't similar to each other. Like headings and body copy or logos and personal information, for instance.(Lynda.com - from LinkedIn, 2017)
 
 How my website was design using the PARC system
-Proximity -  navigation bar, slide show, tables sections, flex containers, columns and cards are used to section out the non-like object and group the related.
-
-Alignment – For the information to flow I have started off with a slide show showing the institutes in which I have studied, moving on to a table that shows more information regarding this. Furthermore, goes on to explain my job history, moving onto explaining the key people involved during my development of skills. And last a google API of the institutes which I studied to give the user more information (whereabouts) of place of studies.
-
-Repetition/contrast – I used highlight and colour when presenting my information which gives it a unique graphical pattern and allows the user to understand clearly the sections of the texts/images/table etc. the use of presenting the information in the centre with a black border clearly defines the content, the content is also separated clearly using the correct headings and sections to present the related information in the same section.
+1. Proximity -  Navigation bar, slide show, tables, sections, flex box, containers, columns and cards are used to section out the non-like objects and group the related.
+2. Alignment – For the information to flow I have started off with a slide show showing the institutes in which I have studied, moving on to a table that shows more information regarding this. Furthermore, goes on to explain my job history, moving onto explaining the key people involved during my development of skills. And last a google API of the institutes which I studied to give the user more information (whereabouts) of place of studies.
+3. Repetition/Contrast – I used highlight and colour when presenting my information which gives it a unique graphical pattern and allows the user to understand clearly the sections of the texts/images/table etc. The use of presenting the information in the centre with a black border clearly defines the content, the content is also separated clearly using the correct headings and sections to present the related information in the same section.
 
 **Further work**
 Following the advice given from the google PageSpeed Insights some following changes were made 
