@@ -30,7 +30,7 @@ Alignment – For the information to flow I have started off with a slide show s
 
 Repetition/contrast – I used highlight and colour when presenting my information which gives it a unique graphical pattern and allows the user to understand clearly the sections of the texts/images/table etc. the use of presenting the information in the centre with a black border clearly defines the content, the content is also separated clearly using the correct headings and sections to present the related information in the same section.
 
-##Further work##
+**Further work**
 Following the advice given from the google PageSpeed Insights some following changes were made 
 1.	Optimizing images 
 2.	Minify CSS
