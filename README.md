@@ -1,12 +1,12 @@
 # READ ME
 
-#Prototype screen design
+**Prototype screen design**
 https://projects.invisionapp.com/freehand/document/5QNe05I4g
 
-#Navigation plan 
+**Navigation plan**
 I created a site map using xml-sitemaps following the instructions, furthermore I went on to add my website to the google search console, this is the start of moving myself up the ranks regarding google search. It advises the changes that I need to make to make my website compliant and improve the efficacy and most importantly to optimise the search of the website. (Xml-sitemaps.com, 2017)
 
-#Code analysis/cleaning tools
+**Code analysis/cleaning tools**
 Code analysis/cleaning tools	Checked
 HTML Validator	no errors or warnings (Validator.w3.org, 2017)
 HTML beautifier	Beautified with 2 space indents (Freeformatter.com, 2017)
@@ -15,7 +15,7 @@ CSS minify	Minified by google (Minify Resources HTML, 2017)
 Accessibility Checker	Errors solved (Achecker.ca, 2017)
 	
 
-#PARC
+**PARC**
 https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html
 The PARC system, Contains four main ideas.
  Proximity, which states like objects should be grouped together and separated from non like objects. 
@@ -29,7 +29,8 @@ Proximity -  navigation bar, slide show, tables sections, flex containers, colum
 Alignment – For the information to flow I have started off with a slide show showing the institutes in which I have studied, moving on to a table that shows more information regarding this. Furthermore, goes on to explain my job history, moving onto explaining the key people involved during my development of skills. And last a google API of the institutes which I studied to give the user more information (whereabouts) of place of studies.
 
 Repetition/contrast – I used highlight and colour when presenting my information which gives it a unique graphical pattern and allows the user to understand clearly the sections of the texts/images/table etc. the use of presenting the information in the centre with a black border clearly defines the content, the content is also separated clearly using the correct headings and sections to present the related information in the same section.
-Further work
+
+**Further work**
 Following the advice given from the google PageSpeed Insights some following changes were made 
 1.	Optimizing images 
 2.	Minify CSS
