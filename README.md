@@ -1,7 +1,6 @@
 # READ ME
-
-##Prototype screen design
-https://projects.invisionapp.com/freehand/document/5QNe05I4g
+**Prototype screen design**
+-https://projects.invisionapp.com/freehand/document/5QNe05I4g
 
 **Navigation plan**
 I created a site map using xml-sitemaps following the instructions, furthermore I went on to add my website to the google search console, this is the start of moving myself up the ranks regarding google search. It advises the changes that I need to make to make my website compliant and improve the efficacy and most importantly to optimise the search of the website. (Xml-sitemaps.com, 2017)
