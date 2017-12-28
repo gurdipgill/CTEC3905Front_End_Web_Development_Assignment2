@@ -39,30 +39,18 @@ These changes will help the page load up faster. (Developers.google.com, 2017)
 
 
 **References**
-1. Navbar/Main/ Section/Tables
-Everitt, D. and Raczinski, F. (2017). CTEC3905/04-lab. [online] GitHub. Available at: https://github.com/CTEC3905/04-lab/tree/nav [Accessed 28 Dec. 2017].
-Slideshow
-2. W3schools.com. (2017). How To Create a Slideshow. [online] Available at: https://www.w3schools.com/howto/howto_js_slideshow.asp [Accessed 28 Dec. 2017].
-Flexbox
-3. W3schools.com. (2017). CSS Flexible Box. [online] Available at: https://www.w3schools.com/css/css3_flexbox.asp [Accessed 28 Dec. 2017].
-Google API
-Google Developers. (2017). Get API Key  |  Google Maps JavaScript API  |  Google Developers. [online] Available at: https://developers.google.com/maps/documentation/javascript/get-api-key [Accessed 28 Dec. 2017].
-Code analysis tools
-HTML Validator
-Validator.w3.org. (2017). The W3C Markup Validation Service. [online] Available at: https://validator.w3.org/ [Accessed 28 Dec. 2017].
- HTML beautifier
-Freeformatter.com. (2017). Free Online HTML Formatter - FreeFormatter.com. [online] Available at: https://www.freeformatter.com/html-formatter.html [Accessed 28 Dec. 2017].
-CSS Validator
-Anon, (2017). [online] Available at: https://jigsaw.w3.org/css-validator/validator [Accessed 28 Dec. 2017].
-CSS minify
-Minify Resources (HTML, a. (2017). Minify Resources (HTML, CSS, and JavaScript)  |  PageSpeed Insights  |  Google Developers. [online] Google Developers. Available at: https://developers.google.com/speed/docs/insights/MinifyResources [Accessed 28 Dec. 2017].
-Accessibility Checker
-Achecker.ca. (2017). IDI Web Accessibility Checker : Web Accessibility Checker. [online] Available at: https://achecker.ca/checker/index.php [Accessed 28 Dec. 2017].
-Google Insights
-Developers.google.com. (2017). PageSpeed Insights. [online] Available at: https://developers.google.com/speed/pagespeed/insights/ [Accessed 28 Dec. 2017].
-Sitemap 
-Xml-sitemaps.com. (2017). Create your Google Sitemap Online - XML Sitemaps Generator. [online] Available at: https://www.xml-sitemaps.com/ [Accessed 28 Dec. 2017].
-[1]Lynda.com - from LinkedIn. (2017). Understanding the PARC system. [online] Available at: https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html [Accessed 28 Dec. 2017].
+1. Navbar/Main/ Section/Tables - Everitt, D. and Raczinski, F. (2017). CTEC3905/04-lab. [online] GitHub. Available at: https://github.com/CTEC3905/04-lab/tree/nav [Accessed 28 Dec. 2017].
+2.Slideshow - W3schools.com. (2017). How To Create a Slideshow. [online] Available at: https://www.w3schools.com/howto/howto_js_slideshow.asp [Accessed 28 Dec. 2017].
+3.Flexbox W3schools.com. (2017). CSS Flexible Box. [online] Available at: https://www.w3schools.com/css/css3_flexbox.asp [Accessed 28 Dec. 2017].
+4.Google API - Google Developers. (2017). Get API Key  |  Google Maps JavaScript API  |  Google Developers. [online] Available at: https://developers.google.com/maps/documentation/javascript/get-api-key [Accessed 28 Dec. 2017].
+5.HTML Validator - Validator.w3.org. (2017). The W3C Markup Validation Service. [online] Available at: https://validator.w3.org/ [Accessed 28 Dec. 2017].
+6.HTML beautifier - Freeformatter.com. (2017). Free Online HTML Formatter - FreeFormatter.com. [online] Available at: https://www.freeformatter.com/html-formatter.html [Accessed 28 Dec. 2017].
+7.CSS Validator - Anon, (2017). [online] Available at: https://jigsaw.w3.org/css-validator/validator [Accessed 28 Dec. 2017].
+8.CSS minify - Minify Resources (HTML, a. (2017). Minify Resources (HTML, CSS, and JavaScript)  |  PageSpeed Insights  |  Google Developers. [online] Google Developers. Available at: https://developers.google.com/speed/docs/insights/MinifyResources [Accessed 28 Dec. 2017].
+9.Accessibility Checker - Achecker.ca. (2017). IDI Web Accessibility Checker : Web Accessibility Checker. [online] Available at: https://achecker.ca/checker/index.php [Accessed 28 Dec. 2017].
+10.Google Insights - Developers.google.com. (2017). PageSpeed Insights. [online] Available at: https://developers.google.com/speed/pagespeed/insights/ [Accessed 28 Dec. 2017].
+11.Sitemap - Xml-sitemaps.com. (2017). Create your Google Sitemap Online - XML Sitemaps Generator. [online] Available at: https://www.xml-sitemaps.com/ [Accessed 28 Dec. 2017].
+12.Lynda.com - from LinkedIn. (2017). Understanding the PARC system. [online] Available at: https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html [Accessed 28 Dec. 2017].
 
 
 
