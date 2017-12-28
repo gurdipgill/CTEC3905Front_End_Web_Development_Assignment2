@@ -1,19 +1,21 @@
-# EEAD ME
-Prototype screen design
+# READ ME
+
+#Prototype screen design
 https://projects.invisionapp.com/freehand/document/5QNe05I4g
-Navigation plan 
+
+#Navigation plan 
 I created a site map using xml-sitemaps following the instructions, furthermore I went on to add my website to the google search console, this is the start of moving myself up the ranks regarding google search. It advises the changes that I need to make to make my website compliant and improve the efficacy and most importantly to optimise the search of the website. (Xml-sitemaps.com, 2017)
-Code analysis/cleaning tools
+
+#Code analysis/cleaning tools
 Code analysis/cleaning tools	Checked
 HTML Validator	no errors or warnings (Validator.w3.org, 2017)
 HTML beautifier	Beautified with 2 space indents (Freeformatter.com, 2017)
-	
 CSS Validator	no errors or warnings (Anon, 2017)
 CSS minify	Minified by google (Minify Resources HTML, 2017)
 Accessibility Checker	Errors solved (Achecker.ca, 2017)
 	
 
-PARC
+#PARC
 https://www.lynda.com/Illustrator-tutorials/Understanding-PARC-system/145210/170193-4.html
 The PARC system, Contains four main ideas.
  Proximity, which states like objects should be grouped together and separated from non like objects. 
@@ -33,8 +35,9 @@ Following the advice given from the google PageSpeed Insights some following cha
 2.	Minify CSS
 3.	JavaScript Asynchronous  
 These changes will help the page load up faster. (Developers.google.com, 2017)
- 
-References 
+
+
+#References 
 Navbar/Main/ Section/Tables
 Everitt, D. and Raczinski, F. (2017). CTEC3905/04-lab. [online] GitHub. Available at: https://github.com/CTEC3905/04-lab/tree/nav [Accessed 28 Dec. 2017].
 Slideshow
