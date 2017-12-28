@@ -1,6 +1,6 @@
 # READ ME
 
-**Prototype screen design**
+##Prototype screen design
 https://projects.invisionapp.com/freehand/document/5QNe05I4g
 
 **Navigation plan**
