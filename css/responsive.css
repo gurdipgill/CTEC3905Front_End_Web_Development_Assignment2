@@ -37,7 +37,7 @@ section:hover{background:#666;}
 h2{width:100%}
 }
 @media screen and (min-width:700px){header{background:#222;color:#ccc;}
-nav{display:flex;position:fixed;z-index:1000;}
+nav{display:none;position:fixed;z-index:1000;}
 nav a{line-height:1em;width:100%}
 main{max-width:1000px;}
 section{width:22%;margin:1em 1% 1em 1%;background:#222;border-color:#666;font-size:1.5em;}
