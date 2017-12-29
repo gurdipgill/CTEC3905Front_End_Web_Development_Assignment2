@@ -49,6 +49,7 @@ nav a{line-height:1em;width:11.5em;}
 main{max-width:1000px;}
 section{width:22%;margin:1em 1% 1em 1%;background:#222;border-color:#666;font-size:1.5em;}
 }
+.gurdip{border-radius: 8px;width:300px;height:300px;}
 .flex-container{display:flex;flex-wrap:wrap;background-color:#333;}
 .flex-container>div{background-color:#f1f1f1;width:230px;margin:10px;text-align:center;line-height:15px;font-size:15px;}
 #edhistorytbl{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;border-collapse:collapse;max-width:1000px;position:relative;margin:auto;width:100%}
