@@ -3,7 +3,7 @@ header{background:#ccc;color:#444;}
 nav{background:#aaa;display:none;}
 nav a{padding:1em 4.82em;display:block;}
 h2{font-size:9px}
-li{font-size:12px}
+li{font-size:11px}
 #menu{padding:1em;background:#fff;display:block;position:fixed;z-index:100;}
 .show-menu{display:block;position:fixed;z-index:50;}
 a{color:#000;text-decoration:none;}
